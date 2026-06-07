@@ -190,7 +190,7 @@ const milan = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=walterhydra&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=walterhydra&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&column=6" />
 
 </div>
 
@@ -202,13 +202,7 @@ const milan = {
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walterhydra/walterhydra/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/walterhydra/walterhydra/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/walterhydra/walterhydra/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-> ⚙️ To enable snake: add the [platane/snk](https://github.com/platane/snk) GitHub Action to your profile repo.
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
 
