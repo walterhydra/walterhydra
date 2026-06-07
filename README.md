@@ -190,7 +190,7 @@ const milan = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=walterhydra&theme=gruvbox&column=6" />
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=walterhydra&theme=aura&column=6" />
 
 </div>
 
